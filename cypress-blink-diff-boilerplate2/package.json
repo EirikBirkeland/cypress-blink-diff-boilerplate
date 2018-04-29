@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cypress:screenshots:update": "cp ./cypress/screenshots/* ./cypress/screenshots-base",
+    "cypress:screenshots:diff": "./cypress/diff.sh"
+  },
+  "devDependencies": {
+    "blink-diff": "^1.0.13",
+    "cypress": "^2.1.0",
+    "parcel-bundler": "^1.7.1"
+  }
+}
