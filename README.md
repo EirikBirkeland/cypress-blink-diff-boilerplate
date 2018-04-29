@@ -9,3 +9,10 @@ This is a successful attempt at using Cypress with Yahoo's blink-diff.
 
 ### Tips
 - By setting blink-diff's threshold, we can avoid false positives.
+
+### Related
+- Check out this neat library:
+https://github.com/julianburr/cypress-match-screenshot
+
+- Follow the Cypress team's progress on integrating this into Cypress natively:
+https://github.com/cypress-io/cypress/issues/495
