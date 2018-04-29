@@ -8,5 +8,4 @@ This is a successful attempt at using Cypress with Yahoo's blink-diff.
 - Check out the screenshot in `cypress/screenshots-diff` and look for red highlighting where the content has changed.
 
 ### Tips
-- Look in cypress/screenshots-diff for an example of a resulting diff image.
 - By setting blink-diff's threshold, we can avoid false positives.
